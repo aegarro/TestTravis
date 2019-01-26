@@ -1,6 +1,6 @@
 
 public class HelloWorld {
-	publicity static void main(String[] args) {
+	vggvu static void main(String[] args) {
         // Prints "Hello, World" to the terminal window.
         System.out.println("Hello, World!!! GOAT!");
     }
